@@ -1,5 +1,6 @@
 aiohttp
 aiohttp-jinja2
+jinja2==3.0.1
 telethon
 cryptg
 pillow
